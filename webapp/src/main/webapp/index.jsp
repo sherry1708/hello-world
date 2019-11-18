@@ -7,5 +7,12 @@
   <h3> AWS Cloud Engineer </h3>
 <p>Auto Deployment</p>
 
+<h4>HTML Images</h4>
+<p>HTML images are defined with the img tag:</p>
+
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+
+</body>
+</html>
 </body>
 </html>
